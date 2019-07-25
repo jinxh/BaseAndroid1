@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">YunCang</string>
+
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="submit">提交</string>
+    <string name="click_to_choose">点击选择</string>
+    <string name="upload">上传</string>
+    <string name="loadingMoreText">正在加载</string>
+
+    <string name="login_phone_num">手机号码%1$s</string>
+    <string name="switch_user">切换用户登录</string>
+
+    <string name="main_title">中储云仓</string>
+    <string name="main_title_business">业务查询</string>
+    <string name="main_title_me">个人</string>
+    <string name="main_scan">扫一扫</string>
+    <string name="main_news">新闻通知</string>
+    <string name="main_news_more">更多</string>
+    <string name="just_now">刚刚</string>
+
+    <string name="main_work">作业任务</string>
+    <string name="main_business">业务查询</string>
+    <string name="main_person">个人</string>
+
+    <string name="xiechezuoye">卸车作业</string>
+    <string name="taoxiangzuoye">掏箱作业</string>
+    <string name="fayunzuoye">发运作业</string>
+    <string name="saomayanshou">扫码验收</string>
+    <string name="chukuzuoye">出库作业</string>
+    <string name="yiweizuoye">移位作业</string>
+    <string name="bancaifanduo">板材翻剁</string>
+    <string name="jinchangdengji">车辆进场登记</string>
+    <string name="lichangdengji">离场登记</string>
+    <string name="create_drayage">创建移位短驳</string>
+    <string name="drayage_confirm">短驳作业</string>
+    <string name="drayage_info">移库短驳</string>
+
+
+    <string name="phone_num">手机号码：</string>
+    <string name="job">岗位：</string>
+
+    <string name="me_notification">通知公告</string>
+    <string name="me_bind_person">工作人员绑定</string>
+    <string name="me_question">常见问题</string>
+    <string name="me_change_phone">更改手机号码</string>
+    <string name="me_quit">退出</string>
+
+    <string name="create">创建</string>
+
+    <string name="print_leave">打印出库码单</string>
+
+    <string name="null_album">"本地相册没有图片"</string>
+    <string name="add">添加</string>
+
+
+    <string name="stock_search_title">现货库存查询</string>
+
+    <string name="bind_person_title">绑定作业人员（%1$d）</string>
+
+
+    <!--登陆-->
+    <string name="switch_finger_print">切换指纹登陆</string>
+    <string name="switch_phone_num">切换用户登陆</string>
+    <string name="get_verify_code">获取验证码</string>
+    <string name="get_verify_code1">获取验证码(%1$d)</string>
+
+    <!--绑定作业人员-->
+    <string name="bind_person_add">添加作业人员</string>
+    <string name="bind_person_clear">清除绑定</string>
+    <string name="bind_person_remove_succ">删除成功</string>
+    <string name="bind_person_remove_fail">删除失败</string>
+
+    <!--仓库-->
+    <string name="choose_house_tip">请选择仓库</string>
+    <string name="choose_area_tip">请选择仓区</string>
+    <string name="choose_position_tip">请选择仓位</string>
+
+    <!--扫码验收-->
+    <string name="continue_sacn">当前已扫码%1$d件</string>
+    <string name="selected_position">%1$s/%2$s/%3$s</string>
+    <string name="checkaccept_title">%1$s:%2$s</string>
+    <string name="checkaccept_content1">货主:%1$s</string>
+    <string name="checkaccept_content2">到货日志:%1$s</string>
+    <string name="checkaccept_content3">货品:%1$s</string>
+    <string name="checkaccept_content4">卸货货位:%1$s</string>
+    <string name="click_to_checkaccept">点击扫码验收</string>
+
+    <!--发货-->
+    <string name="sort_choose">已选择</string>
+    <string name="sort_pihao">批号</string>
+    <string name="sort_weight">重量</string>
+    <string name="sort_position">货位</string>
+    <string name="choose_all">全选</string>
+    <string name="choose_none">反选</string>
+    <string name="pre_step">上一步</string>
+    <string name="next_step">下一步</string>
+</resources>
